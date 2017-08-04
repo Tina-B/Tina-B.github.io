@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to The Bluefield Group!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +9,11 @@
 title: The Bluefield Group
 email: info@bluefieldllp.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for the new group site here. You can edit this
+  Bluefield was established in 2009 and is an investment adviser to companies and funds investing in solar energy infrastructure. 
+  It has a proven record in the selection, acquisition and supervision of large scale energy and infrastructure assets in the UK and Europe. 
+  The team has been involved in over £1.6 billion of solar photovoltaic ("PV") funds and/or transactions in both the UK and Europe since 2008, including over £500m in the UK since December 2011. a holding company ofWrite an awesome description for the new group site here. 
+  
+  You can edit this 
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
